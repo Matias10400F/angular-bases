@@ -8,6 +8,7 @@ import { Component, OnInit } from '@angular/core';
 <button (click)="increaseBy(+1)">+1</button>
 <button (click)="Reset()">Reset</button>
 <button (click)="increaseBy(-1)">-1</button>
+<button (click)="increaseBy(-1)">-1</button>
 
 
 
